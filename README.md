@@ -8,4 +8,5 @@
 
 
 ## Flask
-* [Python Flask로 RESTful API 개발하기](https://github.com/WooilJeong/TIL/blob/master/Flask/FlaskBasic.md)
+* RESTful API
+  * [Python Flask로 RESTful API 개발 및 Postman 테스트하기](https://github.com/WooilJeong/TIL/blob/master/Flask/FlaskBasic.md)

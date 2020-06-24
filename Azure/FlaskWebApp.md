@@ -1,5 +1,7 @@
 # Azure App Service
 
+**2020-06-24**
+
 ## 목적
 - **Python Flask App**을 **Azure App Service**에 배포하기
 

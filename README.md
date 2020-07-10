@@ -15,3 +15,8 @@
 ## ML
 * ML 학습 가이드
   * [머신러닝 학습 지도](https://github.com/WooilJeong/TIL/blob/master/ML/ML-Map.md)
+
+
+## Python
+* Pandas
+  * [여러 딕셔너리 값을 담고 있는 리스트 탐색하기]()

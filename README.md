@@ -15,7 +15,8 @@
 ## ML
 * ML 학습 가이드
   * [머신러닝 학습 지도](https://github.com/WooilJeong/TIL/blob/master/ML/ML-Map.md)
-
+* Book
+  * [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://github.com/WooilJeong/TIL/blob/master/ML/homl2.md)
 
 ## Python
 * Pandas
